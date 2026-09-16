@@ -1,13 +1,10 @@
 
-
-```markdown
 # Satellite Image Super-Resolution with Blind Evaluation
 
 > **AI-Powered Satellite Imagery Enhancement & Trust Verification Pipeline**  
 
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![ISRO Data](https://img.shields.io/badge/Data-ISRO%20PRADAN-orange?style=for-the-badge)](https://pradan.issdc.gov.in)
 
 ---
@@ -305,12 +302,6 @@ python src/finetune/compare_finetune.py    # Before/after comparison
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🎯 Project Impact
 
 > **Built to investigate not just whether AI super-resolution works, but whether it can be trusted.**
@@ -327,9 +318,3 @@ This project demonstrates end-to-end ownership of a real, unsolved problem—fro
 ---
 
 *Investigating what it actually takes to trust an AI's guess, when there's no right answer to check against.*
-
-```
-
-<FollowUp label="Want help setting up the C++ deployment environment?" query="Can you guide me through installing OpenCV and ONNX Runtime for the standalone C++ inference engine on Windows?"/>
-
-```
