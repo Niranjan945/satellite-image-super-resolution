@@ -1,0 +1,11 @@
+numpy
+opencv-python
+opencv-contrib-python
+Pillow
+torch
+torchvision
+basicsr
+facexlib
+gfpgan
+realesrgan
+onnx
